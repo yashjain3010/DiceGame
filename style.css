@@ -1,0 +1,40 @@
+body{
+    background-color: #393E46;
+}
+
+h1{
+  color: #4ECCA3;
+  font-size: 8rem;
+  font-family: 'Lobster', cursive;
+  margin: 30px;
+  text-shadow: 5px 0 #232931;
+}
+
+p{
+  color: #4ECCA3;
+  font-size: 2rem;
+  font-family: 'Indie Flower', cursive;
+  
+}
+
+footer{
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+.container{
+  text-align: center;
+  margin: auto;
+  width: 70%;
+}
+
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+
+img{
+  width: 80%;
+}
